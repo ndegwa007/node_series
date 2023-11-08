@@ -9,3 +9,10 @@
 2023-11-07	07:43:47	0a3fff99-13c6-4fe4-8d98-6d35167fad75	/	GET
 2023-11-07	07:44:35	2aea01fb-4b23-4dd2-b7b6-b38291d7c2a3	/	GET
 2023-11-07	07:44:35	4a9ac7d7-572c-4207-a5b5-87774163d6c2	/css/style.css	GET
+2023-11-08	20:16:58	ed223027-2b6a-41c5-b227-3820d8f0a55c	{req.method}	{req.headers.origin}	{req.url}
+2023-11-08	20:16:58	885292c3-436c-4d90-9201-df2ef86d1e49	{req.method}	{req.headers.origin}	{req.url}
+2023-11-08	20:19:35	b1d3c814-1a28-4da2-83e5-ef2da0fc2836	GET	undefined	/new-page.html
+2023-11-08	20:19:35	19403cf9-48a6-4bba-8480-73b74fae46c1	GET	undefined	/img/img1.jpg
+2023-11-08	20:19:35	efbbec9e-6347-4a02-b1a9-3e35c90d4e16	GET	undefined	/css/style.css
+2023-11-08	20:33:24	cf100c39-72d0-482d-a9a8-0eea013ee577	GET	undefined	/
+2023-11-08	20:33:24	be8da551-e3fb-445c-a46d-83cf03f12863	GET	undefined	/css/style.css

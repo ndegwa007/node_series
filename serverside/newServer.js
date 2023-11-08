@@ -2,12 +2,20 @@ const express = require('express');
 const path = require('path');
 const PORT = process.env.PORT || 3500;
 const app = express();
+const { logger } = require('./middleware/logEvents');
+const cors = require('cors');
+
+// custom logger
+app.use(logger);
+
+// cross origin resource sharing
+app.use(cors());
+
 /**
  * built-in middleware for encoded url
  * in other words form data
  * content-type: application/x-www-form-urlencoded
  */
-
 app.use(express.urlencoded({ extended: false }));
 
 // built-in middleware for json
