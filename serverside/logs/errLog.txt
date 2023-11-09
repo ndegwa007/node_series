@@ -2,3 +2,4 @@
 2023-11-07	07:43:41	acd117bd-006a-414e-b86e-dd0ba688a34e	TypeError: fsPromise.readeFile is not a function
 2023-11-07	07:43:44	01c84b41-c16a-4527-9d6c-c05879e06b52	TypeError: fsPromise.readeFile is not a function
 2023-11-07	07:43:47	6069e1b7-f879-4daf-803b-a4ecccfa8fa7	TypeError: fsPromise.readeFile is not a function
+2023-11-09	16:35:42	ac8b7ca6-4119-4960-a23d-cabfa19baa2c	Error: Not allowed by CORS
