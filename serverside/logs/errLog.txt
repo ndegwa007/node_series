@@ -3,3 +3,6 @@
 2023-11-07	07:43:44	01c84b41-c16a-4527-9d6c-c05879e06b52	TypeError: fsPromise.readeFile is not a function
 2023-11-07	07:43:47	6069e1b7-f879-4daf-803b-a4ecccfa8fa7	TypeError: fsPromise.readeFile is not a function
 2023-11-09	16:35:42	ac8b7ca6-4119-4960-a23d-cabfa19baa2c	Error: Not allowed by CORS
+2023-11-16	16:54:30	5e87e8da-a969-445f-92c2-570ccd5a50f4	TypeError: Cannot read properties of undefined (reading 'id')
+2023-11-16	16:55:58	f7628020-257f-4a07-9d55-ccfade240332	TypeError: Cannot read properties of undefined (reading 'id')
+2023-11-16	16:59:10	30451a18-fbdf-4423-959b-4a1e8cd6e953	Error: Cannot set headers after they are sent to the client
